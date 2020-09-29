@@ -33,7 +33,7 @@ This is a frontend team project done in a week. Was generated with [React](https
 ---
 ### Setup
 
-To run this project install it locally first in backend and then in frontend using npm:
+To run this project install it in frontend using npm:
 ```
 $ npm install
 $ npm start
