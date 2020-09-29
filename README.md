@@ -47,6 +47,6 @@ Run ``` npm test ```to execute the unit tests.
 ---
 ### Developers
 
-Vanesa Gómez Cucchiararo
-Aleix Sanllehy
-Martí Olasz
+- Vanesa Gómez Cucchiararo
+- Aleix Sanllehy
+- Martí Olasz
