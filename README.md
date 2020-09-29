@@ -15,7 +15,7 @@ Andefain is a full responsive frontend web of information related to films or te
 ---
 ### Project
 
-This is a frontend team project. Was generated with [React](https://reactjs.org/)
+This is a frontend team project done in a week. Was generated with [React](https://reactjs.org/)
 
 ---
 ### Technologies
